@@ -1,0 +1,8 @@
+{
+    //"server.urls": "http://*:5000",
+    "connectionString_sqlserver": "Data Source=localhost;Database=Test;User ID=testuser;Password=<YourNewStrong!Passw0rd>",
+    "connectionString_sqlite": "Data Source=Test.db;",
+    "secondUrl": "http://second-service/Second",
+    "thirdUrl": "http://third-service/Third",
+    "tracer": "none"
+}
